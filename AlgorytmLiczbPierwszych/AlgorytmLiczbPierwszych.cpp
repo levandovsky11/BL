@@ -10,7 +10,9 @@ int main()
 	int ilosc = 0;
 
 	cout << "podaj ile chcesz liczb pierwszych\n" <<endl;
+
 	cin >> ilosc;
+
 	for (i = 3; i > 0; ++i)
 	{
 		for (j = 2; j <= i / 2; ++j)
