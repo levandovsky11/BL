@@ -1,0 +1,4 @@
+﻿  Szyfr_Cezara.cpp
+H:\INF C++\cplusplus\BL\Szyfr_Cezara\Szyfr_Cezara.cpp(35,3): warning C4551: wywołaniu funkcji brakuje listy argumentów
+  LINK : nie znaleziono elementu H:\INF C++\cplusplus\BL\Szyfr_Cezara\Debug\Szyfr_Cezara.exe ani nie został on skompilowany podczas ostatniego konsolidowania przyrostowego; zostanie wykonana pełna konsolidacja
+LINK : fatal error LNK1105: nie można zamknąć pliku „H:\INF C++\cplusplus\BL\Szyfr_Cezara\Debug\Szyfr_Cezara.exe”
